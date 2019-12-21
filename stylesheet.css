@@ -1,0 +1,34 @@
+body
+    {
+        background-color: #fad6a5;
+    }
+            
+hr.line
+    {
+         border-top: 3px dotted black;
+    }
+    
+.logo
+    {
+        padding: 10px;
+        margin: 30px 40px 40px 40px;
+        background-color: #ffffff
+    }
+        
+.template
+    {
+        padding: 20px;
+        margin: 30px 40px 40px 40px;
+        background-image: url("https://lh3.googleusercontent.com/NDgC1UUt3OjFNipqQ6tbhaqvIjcDsS_m8GivMe0MkNLHRs9efpT1wLkAhdIAvc2ktL9SFgJrHA8LW3M6PLDUXAw=s300");
+        background-repeat: no-repeat;
+        background-color: #cba8ee;
+        background-position: center;
+    }
+        
+.format
+    {
+        padding: 30px;
+        color: #00000;
+        font-family: 'Roboto', sans-serif;
+        font-size: 30px;
+    }
